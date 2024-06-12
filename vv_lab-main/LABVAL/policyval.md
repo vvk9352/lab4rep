@@ -86,3 +86,8 @@ This lab guide provides step-by-step instructions to create an AWS IAM policy us
 You have successfully created an AWS IAM policy! IAM policies help manage permissions securely and efficiently in your AWS environment.
 
 For further information, refer to the [AWS IAM User Guide](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html).
+
+<question source= "https://raw.githubusercontent.com/vvk9352/lab4rep/main/vv_lab-main/LABVAL/inlineval.md" />
+<question source= "https://raw.githubusercontent.com/vvk9352/lab4rep/main/vv_lab-main/LABVAL/inlineval2.md" />
+
+
